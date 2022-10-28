@@ -15,3 +15,6 @@ quarkus dev
 ```
 
 application running at http://localhost:8080/hello
+
+the important code is in:
+https://github.com/vinland-saga/quarkusBugSample/tree/master/src/main/java/org/acme
